@@ -1,6 +1,6 @@
 # gcloud-automation
 
-Python code for automate Start/Stop/Restart the Cloud SQL at user given time
+Python code for automate Start/Stop/Restart the Cloud SQL at user given time..
 
 For this automation we are using following Google Services 
    - Cloud Pub/Sub
