@@ -5,7 +5,7 @@ from pprint import pprint
 
 credentials = GoogleCredentials.get_application_default()
 service = discovery.build('sqladmin', 'v1beta4', credentials=credentials, cache_discovery=False)
-project = 'cc-ms-sandbox'
+project = '<your-project-id>
 
 def start_stop(event, context):
   print(event)
